@@ -1,0 +1,52 @@
+body,html{
+	width:100%;
+	height:100%;
+	margin:0;
+	padding:0;
+}
+body{
+	background-color:#F1F4F9;
+	width:100%;
+	height:100%;
+}
+
+p{
+	text-align:justify;
+}
+
+fieldset{
+	background-color:rgb(247,247,247);
+	border-radius:5px;
+	margin-bottom:10px;
+	border:1px solid #CCC;
+}
+
+
+
+fieldset legend{
+	padding:0px 10px;
+	color:#237DAC;
+	border-right:1px solid #CCC;
+	border-left:1px solid #CCC;
+}
+form{
+	margin:auto;
+	width:75%;
+}
+
+p.menu{
+	display:inline-block;
+	vertical-align:middle;
+}
+
+h1{
+	font-size:50px;
+	text-align:center;
+	
+}
+
+p.deco{
+	font-size:30px;
+	margin-right:20%;
+	text-align:right;
+}
